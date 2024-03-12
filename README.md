@@ -1,3 +1,3 @@
 # https://blobby-boi.github.io/FNAF/
-## FNAG
+## FNAF
 An alternative link to play FNAF!
